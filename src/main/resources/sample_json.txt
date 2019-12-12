@@ -1,0 +1,1 @@
+{"timestamp": "2019-07-18T23:59:59+00:00", "customerId": "customer1", "type": "FETCH", "userId": "123","context" : {}}
